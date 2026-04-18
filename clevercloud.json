@@ -1,0 +1,12 @@
+{
+  "deploy": {
+    "type": "node"
+  },
+  "build": {
+    "type": "npm",
+    "goal": "install"
+  },
+  "hooks": {
+    "preStart": "npm install"
+  }
+}

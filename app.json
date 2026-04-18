@@ -1,0 +1,14 @@
+{
+  "name": "PASIYA-MD",
+  "description": "WhatsApp Bot Base - ᴩᴀꜱɪʏᴀ-𝗠𝗗 𝗠𝗜𝗡𝗜 𝗕𝗢𝗧 𝗕𝗔𝗦𝗘",
+  "env": {
+    "NODE_ENV": {
+      "description": "Node environment",
+      "value": "production"
+    },
+    "PORT": {
+      "description": "Port for the Express server",
+      "value": "8080"
+    }
+  }
+}
